@@ -9,15 +9,15 @@ const CONTACT_INFO = [
   {
     icon: Mail,
     label: "Email",
-    value: "dharshankanth@email.com",
-    href: "mailto:dharshankanth@email.com",
+    value: "dharshankanthbvn@gmail.com",
+    href: "mailto:dharshankanthbvn@gmail.com",
     color: "#00c3ff",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 98765 43210",
-    href: "tel:+919876543210",
+    value: "+91 7010616113",
+    href: "tel:+917010616113",
     color: "#22c55e",
   },
   {
